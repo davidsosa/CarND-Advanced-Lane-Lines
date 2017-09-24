@@ -16,14 +16,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./myimages/original_undistorted.png "Undistorted"
-[image2]: ./myimages/undistorted_image.png "Road Transformed"
-[image3]: ./myimages/threholded_image.png "Binary Example"
-[image4]: ./myimages/birdseye_color.png "Warp Example Color"
-[image5]: ./myimages/birdseye_threshold.png "Warp Example Black"  Visual"
-[image6]: ./myimages/histogram.png "Histogram"
-[image7]: ./myimages/fitter_lines_wsquares_white.png "Fitted lines"
-[image8]: ./myimages/final_image.png "final_image"
+[image1]: ./output_images/original_undistorted.png "Undistorted"
+[image2]: ./output_images/undistorted_image.png "Road Transformed"
+[image3]: ./output_images/threholded_image.png "Binary Example"
+[image4]: ./output_images/birdseye_color.png "Warp Example Color"
+[image5]: ./output_images/birdseye_threshold.png "Warp Example Black"  Visual"
+[image6]: ./output_images/histogram.png "Histogram"
+[image7]: ./output_images/fitter_lines_wsquares_white.png "Fitted lines"
+[image8]: ./output_images/final_image.png "final_image"
 
 
 [video1]: ["Video"](https://youtu.be/01PSaf6LpNk)
